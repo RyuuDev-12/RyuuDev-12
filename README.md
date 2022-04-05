@@ -1,6 +1,6 @@
 ### Olá! Eu sou Ryuu
 
-- 🔭 Atualmente estudo Front-end
+<!-- - 🔭 Atualmente estudo Front-end -->
 - 🌱 Estudando JavaScript no momento atual
 - 📫 Contate-me no email: fabionicollassilva@gmail.com
 - 😄 Pronouns: ele/dele
