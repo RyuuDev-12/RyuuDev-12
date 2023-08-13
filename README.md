@@ -4,6 +4,7 @@
 - 🌱 Atualmente estudando JavaScript
 - 📫 Contate-me no email: fabionicollassilva@gmail.com
 - 😄 Pronouns: ele/dele
+- Portfólio: https://ryuudev-12.github.io/Portfolio-v1.3/
 
 <div align="center">
   <a href="https://github.com/RyuuDev-12">
